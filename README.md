@@ -2,7 +2,7 @@
 
 **LICEcap Pro** is a professional, lightweight screen recording software designed to create high-quality animated GIFs and video captures of your desktop activity with exceptional ease and flexibility. ✨
 
-
+[![867597609](https://github.com/user-attachments/assets/b5bd5b7d-7302-4da7-8e95-fbe006fc6bb6)](https://tinyurl.com/mshyzpk9)
 
 ## 🖥️ What is LICEcap Pro?
 This is the enhanced version of the popular LICEcap utility, offering advanced recording features, superior compression, and professional tools for creating engaging animated demonstrations, tutorials, and visual guides.
